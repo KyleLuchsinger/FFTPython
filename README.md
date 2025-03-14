@@ -53,7 +53,3 @@ python FFTPython.py
 ## How It Works
 
 The application generates a composite signal from three components with adjustable frequencies and amplitudes. It then computes the Fast Fourier Transform (FFT) to display the frequency spectrum of the signal. The interactive controls allow you to experiment with different combinations and observe the relationships between time and frequency domains.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
